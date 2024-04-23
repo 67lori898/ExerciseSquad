@@ -1,3 +1,6 @@
+
+
+enum ruoloGiocatore{portiere, difensore, centrocampista, attacante,riserva}
 public class Giocatore extends Squadra{
 
 
@@ -10,6 +13,8 @@ public class Giocatore extends Squadra{
 
     public int cartellini=0;
     public int numAssist=0;
+
+    public ruoloGiocatore ruolo;
 
 
 

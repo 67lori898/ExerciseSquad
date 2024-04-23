@@ -4,6 +4,10 @@ public class Riserva extends Giocatore {
 
 
 
+    //mansione è il nome della variabile di tipo tipoQualifica
+     public tipoQualifica mansione= tipoQualifica.Riserva;
+
+
 
 
 
